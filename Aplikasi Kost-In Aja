@@ -1,15 +1,11 @@
 
 
 Disusun Oleh :
-5160411471	Imam Sugiarto Bowo L
 5200411329	Dimas Dwi Kurniawan 	
 5200411389	Fahri Putra Herlambang 	
 5200411372	Herdy Andriksen 		
 5200411387	Ach. Nur Aqil Wahid 	
 
-
-BAB I
-PENDAHULUAN
 
 1.1 Latar Belakang Masalah
 
@@ -17,35 +13,53 @@ PENDAHULUAN
 Bagi pemilik kost, jasa pencarian kost merupakan media promosi yang efektif tanpa perlu mencetak brosur atau baliho serta dapat mempermudah penyebaran informasi. Bagi mahasiswa, aplikasi Kost-in Aja berguna sebagai aplikasi penyedia informasi yang lengkap mengenai tempat kost. Mahasiswa tidak perlu menghabiskan waktu untuk mendatangi tempat kost satu per satu demi mencari informasi mengenai tempat kost. Dengan adanya Aplikasi Kost-in Aja akan sangat bermanfaat bagi mahasiswa yang membutuhkan kost.
 Kost-in Aja merupakan aplikasi berbasis website yang mengharuskan user untuk mengaksesnya secara online, fitur yang terdapat di dalam aplikasi Kost-in Aja cukup kompleks, seperti fitur sorting, searching dan booking database kosan. Fitur ini mampu memperlihatkan informasi secara lengkap dari tempat kost yaitu berupa, harga, fasilitas, foto, rating tempat kost, serta kondisi tempat kost. Jika mahasiswa ingin mencari tempat kost yang diinginkan, mahasiswa tidak perlu mendatangi tempat kost satu-persatu, tetapi hanya dengan mengakses jasa pencarian kost kemudian dilakukan pemilihan tempat kost yang sesuai yang diinginkan kemudian bisa langsung memesannya. 
 Tujuan utama targetnnya ialah memberikan kemudahan dalam setiap aktivitas mahasiswa dan pemilik tempat kost. Mahasiswa lebih mudah mencari tempat kost dan pemilik kost juga ikut merasakan kemudahan dalam promosi tempat kostnya. Diharapkan dengan adanya aplikasi Kost-in Aja dapat memberikan keefektifan untuk pengguna serta bermanfaat banyak untuk lingkungan sekitar.
- 
-1.2 Batasan Masalah
-Beberapa batasan masalah yang terdapat pada penelitian ini sebagai berikut:
-a.	Hanya digunakan untuk wilayah Yogyakarta.
-b.	Aplikasi dibangun berbasis website.
-c.	Hanya digunakan untuk mencari kost saja.
-
-1.3 Rumusan Masalah
+ 
+1.2 Rumusan Masalah
 Mengacu pada latar belakang dan indikasi masalah yang diselidiki maka rumusan masalahnya sebagi berikut:
-a.	Bagaimana cara membangun sistem informasi kost yang dapat membantu pencari kost dalam mencari informasi serta dapat memudahkan dalam pembuatan iklan kost bagi penyedia kost?
-b.	Seberapa tinggi tingkat kemudahaan website penggunaanya bagi pencari kost? 
-1.4 Tujuan Penelitian
-Tujuan dari penelitian ini antara lain untuk membantu para pencari kost memperoleh informasi cepat dan akurat selain itu juga dapat membantu para penyedia kost dalam mengiklankan kostnya
+a.	Apakah dengan cara membangun sistem informasi Kost-in Aja dapat membantu pencari kost dalam mencari informasi? 
+b.	Apakah dengan cara membangun sistem informasi Kost-in Aja dapat memudahkan penyedia kost dalam pembuatan iklan?
+c.	Seberapa tinggi tingkat kemudahaan website penggunaanya bagi pencari kost? 
+1.3 Batasan Masalah
+Beberapa batasan masalah yang terdapat pada penelitian ini sebagai berikut:
+a.	Penerapan aplikasi berfokus di Yogyakarta.
+b.	Aplikasi dibangun berbasis website.
+c.	Aplikasi difokuskan untuk mencari kost.
 
 1.5 Analisis
 	Dikarenakan banyaknya tempat kost yang lokasinya minim diketahui oleh mahasiswa Universitas Teknologi Yogyakarta yang berasal dari luar daerah, baik kost yang terletak di area sekitaran kampus hingga kost di daerah tertentu di Yogyakarta.
-Jika mahasiswa ingin mencari tempat kost yang diinginkan, mahasiswa tidak perlu mendatangi tempat kost satu-persatu, tetapi hanya dengan mengakses jasa pencarian kost kemudian dilakukan pemilihan tempat kost yang sesuai yang diinginkan kemudian bisa langsung memesannya.
+Jika mahasiswa membutuhkan tempat kost yang sesuai dengan kebutuhkan yang diinginkan, mahasiswa tidak perlu mendatangi tempat kost satu-persatu, namun cukup dengan mengakses aplikasi Kost-in Aja dan dapat dengan mudah memilihan kriteria kost yang sesuai dengan kebutuhan, juga terdapat fitur-fitur bagi pengguna untuk lebih selektif memilih kost yang sesuai dengan kebutuhan, setelah mendapati kost yang dicari kemudian pengguna dapat langsung memesannya. 
+1.7 Data Flow Diagram (DFD)
 
-1.6 Manfaat Penelitian
-Manfaat penelitian ini antara lain:
-a.	Dapat mempermudah para pencari kost dalam mencari informasi kost yang sesuai dengan keinginanya.
-b.	Dapat mempermudah para penyedia kost dalam mengiklankan kostnya.
-
+DFD Level 0
+ 
 
 
+
+
+
+
+
+
+
+
+
+
+DFD Level 1
+ 
+
+
+
+DFD Level 2
+ 
+ 
+1.8 Desain Database
+
+  
 DAFTAR PUSTAKA
 
 
 [1] 	B. Andi Tisnawati, "SISTEM PERIKLANAN DAN PENCARIAN RUMAH KOS ONLINE BERBASIS WEB," JURNAL SISTEM INFORMASI DAN TEKNIK KOMPUTER CATUR SAKTI, vol. Vol.1, no. 1, pp. 38-44, 2016. 
 
 
-
+Link github
+https://github.com/aqilwahid/Perancangan-Desain-Aplikasi-Kost-i
